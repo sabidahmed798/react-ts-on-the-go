@@ -11,6 +11,7 @@ export default function Countries({ countriesPromise }: CountriesProps) {
   return (
     <div>
       <h2>Countries:</h2>
+      <h2>Countries:</h2>
     </div>
   );
 }
